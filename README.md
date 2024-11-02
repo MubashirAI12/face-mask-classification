@@ -24,7 +24,7 @@ pip install numpy torch torchvision opencv-python scikit-learn matplotlib
 - #### Download the Repository:
   Clone this repository or download it as a ZIP file.
   ```
-  git clone https://github.com/yourusername/face-mask-classification.git
+  git clone https://github.com/MubashirAI12/face-mask-classification.git
   ```
 
 - #### Open the Notebook:
